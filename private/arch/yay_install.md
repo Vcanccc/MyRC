@@ -1,1 +1,0 @@
-github 433 error: check github ip [https://github.com.ipaddress.com/](https://github.com.ipaddress.com/) and then change hosts
